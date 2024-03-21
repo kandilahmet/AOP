@@ -1,0 +1,6 @@
+@AOP.Product_HostAddress = http://localhost:5217
+
+GET {{AOP.Product_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
