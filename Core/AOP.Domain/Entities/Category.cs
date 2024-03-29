@@ -6,17 +6,10 @@ using System.Threading.Tasks;
 
 namespace AOP.Domain.Entities
 {
-    public class Category
+    public class Category:BaseEntity
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Name { get; set; }
-        public List<Product> Products { get; set; }
-
-        public Category(int id, string name)
-        {
-            Id = id;
-            Name = name;
-            Products = new List<Product>();
-        }
+        public ICollection<Product> Products { get; set; }
     }
 }

@@ -19,8 +19,7 @@ namespace AOP.Persistence.EFCore
         }
         public async Task<bool> AddAsync(T Entity)
         {
-            if (Entity == null)
-                throw new ArgumentNullException(nameof(Entity));
+            ArgumentNullException.ThrowIfNull(Entity);
 
             EntityEntry<T> entityEntry = await Table.AddAsync(Entity);
             return entityEntry.State == EntityState.Added;

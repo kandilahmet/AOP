@@ -19,8 +19,13 @@ namespace AOP.Persistence.EFCore.DbContexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("");
+            optionsBuilder.UseSqlServer("Server=localhost;Database=AOP;User Id=sa;Password=Ab.1234560;MultipleActiveResultSets=true;Encrypt=False");
             base.OnConfiguring(optionsBuilder);
+        }
+
+        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+        {
+            configurationBuilder.Properties<decimal>().HavePrecision(18, 2);
         }
     }
 }

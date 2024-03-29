@@ -1,0 +1,16 @@
+D:\PersonelWorkspace\AOP\Core\AOP.Application\bin\Debug\net8.0\AOP.Application.deps.json
+D:\PersonelWorkspace\AOP\Core\AOP.Application\bin\Debug\net8.0\AOP.Application.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Application\bin\Debug\net8.0\AOP.Application.pdb
+D:\PersonelWorkspace\AOP\Core\AOP.Application\bin\Debug\net8.0\AOP.Domain.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Application\bin\Debug\net8.0\AOP.Domain.pdb
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.csproj.AssemblyReference.cache
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.AssemblyInfoInputs.cache
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.AssemblyInfo.cs
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.csproj.CoreCompileInputs.cache
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.sourcelink.json
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Appl.701BB45D.Up2Date
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\refint\AOP.Application.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\AOP.Application.pdb
+D:\PersonelWorkspace\AOP\Core\AOP.Application\obj\Debug\net8.0\ref\AOP.Application.dll

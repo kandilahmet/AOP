@@ -1,0 +1,12 @@
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\bin\Debug\net8.0\AOP.Infrastructure.deps.json
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\bin\Debug\net8.0\AOP.Infrastructure.dll
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\bin\Debug\net8.0\AOP.Infrastructure.pdb
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.AssemblyInfoInputs.cache
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.AssemblyInfo.cs
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.sourcelink.json
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.dll
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\refint\AOP.Infrastructure.dll
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\AOP.Infrastructure.pdb
+D:\PersonelWorkspace\AOP\Infrastructure\AOP.Infrastructure\obj\Debug\net8.0\ref\AOP.Infrastructure.dll

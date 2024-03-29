@@ -16,7 +16,8 @@ namespace AOP.Persistence
         {
             services.AddDbContext<MsSqlDbContext>();
 
-            services.AddScoped(typeof(IReadRepository<>), typeof(EFCoreReadRepository<>));
+            services.AddTransient(typeof(IReadRepository<>), typeof(EFCoreReadRepository<>));
+            services.AddTransient(typeof(IWriteRepository<>), typeof(EFCoreWriteRepository<>));
         }
     }
 }

@@ -1,0 +1,12 @@
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\bin\Debug\net8.0\AOP.Domain.deps.json
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\bin\Debug\net8.0\AOP.Domain.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\bin\Debug\net8.0\AOP.Domain.pdb
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.AssemblyInfoInputs.cache
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.AssemblyInfo.cs
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.csproj.CoreCompileInputs.cache
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.sourcelink.json
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\refint\AOP.Domain.dll
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\AOP.Domain.pdb
+D:\PersonelWorkspace\AOP\Core\AOP.Domain\obj\Debug\net8.0\ref\AOP.Domain.dll
