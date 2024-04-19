@@ -36,6 +36,7 @@ namespace AOP.Application.Features.Commands.Handlers
             await _productWriteRepository.AddAsync(product);
             await _productWriteRepository.SaveAsync();
 
+
             return new AddProductCommandResponse();
         }
     }
